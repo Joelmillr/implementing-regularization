@@ -1,7 +1,7 @@
 # implementing-regularization
 
 # Outline
-<br>Preprocessing the data
+Preprocessing the data
 <br>Building the pipeline that preprocesses the data
 <br>Creating a Complex feature model using 2-nd Polynomial features
 <br>Evaluating the backward feature search
